@@ -1,0 +1,24 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "An exercise to learn about flux,webpack,and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HollyHigh/toDoList.git"
+  },
+  "keywords": [
+    "flux",
+    "react",
+    "webpack"
+  ],
+  "author": "HollyHigh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HollyHigh/toDoList/issues"
+  },
+  "homepage": "https://github.com/HollyHigh/toDoList#readme"
+}
